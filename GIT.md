@@ -112,13 +112,13 @@ git clone <url> //克隆一个远程仓库
 	git merge --no-ff -m "message" <branch-name>
 ```
 
-![]([E:\Embedded\笔记\word笔记\GIT\合并1.png](https://github.com/ZenonLi/igitli/blob/main/GIT/%E5%90%88%E5%B9%B61.png))
+![](https://github.com/ZenonLi/igitli/blob/main/GIT/%E5%90%88%E5%B9%B61.png)
 
 ```
 	git merge --ff -m "message" <branch-name>
 ```
 
-![](E:\Embedded\笔记\word笔记\GIT\合并2.png)
+![](https://github.com/ZenonLi/igitli/blob/main/GIT/%E5%90%88%E5%B9%B62.png)
 
 合并&squash 所有提交到一个提交
 
@@ -137,7 +137,7 @@ git checkout <dev>
 git rebase <main>
 ```
 
-![](E:\Embedded\笔记\word笔记\GIT\Rebase1.png)
+![](https://github.com/ZenonLi/igitli/blob/main/GIT/Rebase1.png)
 
 #### 	五、撤销
 
